@@ -15,6 +15,7 @@ pom.xml.asc
 /.cpcache
 /.clj-kondo
 /.lsp
+/.calva
 
 # VS Code
 .vscode/*
