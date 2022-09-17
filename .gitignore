@@ -13,6 +13,8 @@ pom.xml.asc
 .hgignore
 .hg/
 /.cpcache
+/.clj-kondo
+/.lsp
 
 # VS Code
 .vscode/*
